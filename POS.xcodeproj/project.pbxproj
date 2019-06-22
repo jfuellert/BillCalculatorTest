@@ -22,7 +22,7 @@
 		C70770A222BC672200CDF797 /* BillCalculator.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C707709922BC672200CDF797 /* BillCalculator.framework */; };
 		C70770A922BC672200CDF797 /* BillCalculatorModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C70770A822BC672200CDF797 /* BillCalculatorModelTests.swift */; };
 		C70770AB22BC672200CDF797 /* BillCalculator.h in Headers */ = {isa = PBXBuildFile; fileRef = C707709B22BC672200CDF797 /* BillCalculator.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C70770AE22BC672200CDF797 /* BillCalculator.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C707709922BC672200CDF797 /* BillCalculator.framework */; };
+		C70770AE22BC672200CDF797 /* BillCalculator.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C707709922BC672200CDF797 /* BillCalculator.framework */; settings = {ATTRIBUTES = (Required, ); }; };
 		C70770AF22BC672200CDF797 /* BillCalculator.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = C707709922BC672200CDF797 /* BillCalculator.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		C70770B822BC68B300CDF797 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = C70770B722BC68B300CDF797 /* Models.swift */; };
 		E4E7EC28195E47CECF998134 /* libPods-POSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FCD16248E2DEC7882E673A63 /* libPods-POSTests.a */; };
