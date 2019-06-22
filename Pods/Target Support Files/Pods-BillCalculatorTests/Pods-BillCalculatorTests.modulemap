@@ -1,0 +1,6 @@
+module Pods_BillCalculatorTests {
+  umbrella header "Pods-BillCalculatorTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
